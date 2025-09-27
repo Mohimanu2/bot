@@ -7,8 +7,8 @@ const app = express();
 app.use(bodyParser.json());
 
 // ⚠️ Put your Page Access Token here
-const PAGE_ACCESS_TOKEN = "PASTE_YOUR_PAGE_ACCESS_TOKEN_HERE";
-const VERIFY_TOKEN = "mysecret123";
+const PAGE_ACCESS_TOKEN = "EAAS5huj0IjUBPhqs1XI34w8Vz2x9D78oRK7dfXsN00OFjQKa9UKQbKNBR6lBf9NSSVojX7aoI7hPhhtRRsPe0i7rFBXAv59hWCP4LlJUZCpQFAoGKfiIx05ep719JEz2VE3HzPGzA31I3ttgLpVbqNRHv3XggZBtRM2HhmZB1HQgKqEq3h9idoUt4tYkqWYlpjYzQZDZD";
+const VERIFY_TOKEN = "cod57";
 
 // Track violations
 let userViolations = {};
